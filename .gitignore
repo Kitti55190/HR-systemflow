@@ -1,0 +1,10 @@
+hrflow-web/node_modules/
+hrflow-web/dist/
+hrflow-api/bin/
+hrflow-api/obj/
+hrflow-api/hrflow.db
+hrflow-api/*.db
+*.user
+*.suo
+*.cache
+*.log
