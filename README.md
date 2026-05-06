@@ -1,5 +1,4 @@
-- HrFlow (HR Leave + OT Approval Workflow) ระบบ HR ขนาดเล็กสำหรับ “ยื่นคำขอ + อนุมัติหลายชั้น” ใช้เป็นเดโมพอร์ตฟอริโอ้ได้
-- โฟลเดอร์โปรเจค:
+- HrFlow (HR Leave + OT Approval Workflow) ระบบ HR ขนาดเล็กสำหรับ “ยื่นคำขอ + อนุมัติหลายชั้น” 
   - Backend: hrflow-api
   - Frontend: hrflow-web
 ใช้เทคโนโลยี
