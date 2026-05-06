@@ -2,7 +2,7 @@
 - โฟลเดอร์โปรเจค:
   - Backend: hrflow-api
   - Frontend: hrflow-web
-ใช้เทคโนโลยี/เครื่องมืออะไร
+ใช้เทคโนโลยี
 
 - Backend : ASP.NET Core Web API (.NET 8) + Entity Framework Core
   - Auth: JWT Bearer Authentication
